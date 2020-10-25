@@ -1,0 +1,2 @@
+What is inside of git object(blob object, actually)
+
