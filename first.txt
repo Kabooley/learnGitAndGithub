@@ -1,3 +1,4 @@
 What is inside of git object(blob object, actually)
 
 make sure this file tree
+make sure git pull
